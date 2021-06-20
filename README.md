@@ -21,8 +21,9 @@ HERE IS CODE FOR IF/WHEN WE IMPLEMENT BINDER
 
 --
 
-## Content outline
-  - __Part I: Core concepts, vector data, and plotting__
+# Workshop Goals
+
+- __Part I: Core concepts, vector data, and plotting__
       - Basic geospatial concepts
       - Basic vector data
       - Geospatial data structures (the `sf` package)
@@ -44,37 +45,69 @@ HERE IS CODE FOR IF/WHEN WE IMPLEMENT BINDER
       - Spatial analysis of raster and vector data
       - Raster reclassification
       - Raster stacks and raster algebra 
-      
-## Getting started
-
-Please follow the notes in [participant-instructions.md](participant-instructions.md).
-
-## Assumed participant background
-
-We assume that participants have working familiarity with the R language,
-including the topics covered in our [R-Fundamentals workshop](https://github.com/dlab-berkeley/R-Fundamentals) materials 
-(though participants without this have still reported useful
-learning about geospatial concepts). 
 
 
-If you would like a refresher on R, you could review that workshop's materials,
-or look to other online resources such as the
-[Base R Cheat Sheet](https://rstudio.com/wp-content/uploads/2016/10/r-cheat-sheet-3.pdf) or the [Quick R website](https://www.statmethods.net/index.html).
+**We assume that participants have working familiarity with the R language, including the topics covered in our [R-Fundamentals workshop](https://github.com/dlab-berkeley/R-Fundamentals) materials (though participants without this have still reported useful learning about geospatial concepts).**
 
-## Technology requirements
+# Installation Instructions
 
-Please bring a laptop with the following:
 
-* [R version](https://cloud.r-project.org/) 3.5 or greater
-* [RStudio integrated development environment (IDE)](https://www.rstudio.com/products/rstudio/download/#download) is
-highly recommended but not required.
-* The R packages `ggplot2`, `sf`, `units`, `tmap`, and `raster` installed, minimally
+# Is Machine Learning with Tidymodels not running on your laptop?
 
-## Resources
+Need to check in with team 6
+
+# Run the code! 
+
+Make instructions
+
+# How to get help?
+
+* Within the language/tool itself
+* Via Google searching
+* On stackoverflow
+
+# Resources
 
 - The [Geocomputation with R](https://geocompr.robinlovelace.net/) textbook (Lovelace, Nowosad, and Muenchow, 2019) is an excellent resource for getting up and running.
 - The [R sf package](https://r-spatial.github.io/sf/) webpage, especially the Articles tab of tutorials for getting started.
 - The [`tmap` getting started](https://cran.r-project.org/web/packages/tmap/vignettes/tmap-getstarted.html) documentation is a great source of plotting support.
 - The [`sf` vignettes](https://cran.r-project.org/web/packages/sf/vignettes/sf1.html) and [`sf` cheatsheet](https://github.com/rstudio/cheatsheets/blob/master/sf.pdf) are great resources for developing and debugging `sf` code.
 - The [`raster` vignettes](https://cran.r-project.org/web/packages/raster/vignettes/Raster.pdf) should help you troubleshoot that package.
+
+
+# About the UC Berkeley D-Lab
+
+D-Lab works with Berkeley faculty, research staff, and students to advance data-intensive social science and humanities research. Our goal at D-Lab is to provide practical training, staff support, resources, and space to enable you to use R for your own research applications. Our services cater to all skill levels and no programming, statistical, or computer science backgrounds are necessary. We offer these services in the form of workshops such as R Fundamentals, one-to-one consulting, and working groups that cover a variety of research topics, digital tools, and programming languages.  
+
+Visit the [D-Lab homepage](http://dlab.berkeley.edu/) to learn more about us. View our [calendar](http://dlab.berkeley.edu/calendar-node-field-date) for upcoming events, and also learn about how to utilize our [consulting](http://dlab.berkeley.edu/consulting) and [data](http://dlab.berkeley.edu/data-resources) services. 
+
+(include definition of IOKN2K!)
+
+# Other D-Lab R Workshops
+
+
+### Basic competency
+
+
+
+### Intermediate/advanced copmetency
+
+
+# Contributors 
+
+
+----
+<div style="display:inline-block;vertical-align:middle;">
+<a href="https://dlab.berkeley.edu/" target="_blank">
+<img src ="https://dlab.berkeley.edu/sites/default/files/logo.png" width="60" align="left" border=0 style="border:0; text-decoration:none; outline:none">
+</a>
+</div>
+<div style="display:inline-block;vertical-align:middle;align:left">
+    <div style="font-size:larger">D-Lab @ University of California - Berkeley
+    </br>
+    <a href="https://dlab.berkeley.edu" target="_blank">https://dlab.berkeley.edu</a>
+    </br>
+    &nbsp;
+    </div>
+</div>
 
