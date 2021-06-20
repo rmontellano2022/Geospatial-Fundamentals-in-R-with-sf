@@ -52,7 +52,7 @@ HERE IS CODE FOR IF/WHEN WE IMPLEMENT BINDER
 # Installation Instructions
 
 
-# Is Machine Learning with Tidymodels not running on your laptop?
+# Is [workshop] not running on your laptop?
 
 Need to check in with team 6
 
