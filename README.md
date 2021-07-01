@@ -51,10 +51,48 @@ HERE IS CODE FOR IF/WHEN WE IMPLEMENT BINDER
 
 # Installation Instructions
 
+In preparation for the upcoming workshop you will need to install R and RStudio and the workshop materials.
 
-# Is [workshop] not running on your laptop?
+1. Install R
 
-Need to check in with team 6
+Download R by clicking the link here: https://cloud.r-project.org/
+
+Select your operating system and then click "base" (Windows users) or "R-4.0.3.pkg". Double-click this file once it has finished downloading and follow the instructions to install it.
+
+2. Install RStudio
+
+Download RStudio by visiting this link: https://rstudio.com/products/rstudio/download/
+
+Scroll down and click the Download button beneath "RStudio Desktop - Open Source License - Free". Double-click this file once it has finished downloading and follow the instructions to install it.
+
+3. Install the necessary packages
+Install the following packages by typing:
+install.packages(c(‘sp’, ‘sf’, ‘rgdal’, ‘rgeos’, ‘raster’, ‘ggplot2’, ‘tmap’, ‘tigris’, ‘tidycensus’))
+Then check to ensure that you’re able to load them by typing
+library(sp)
+library(sf)
+etc.
+
+
+sp, sf, rgdal, rgeos, raster, ggplot2, and tmap, tigris and tidycensus.
+
+4. Download the workshop materials
+
+Download the workshop materials by visiting the GitHub repository: https://github.com/dlab-berkeley/Geospatial-Fundamentals-in-R-with-sf
+
+To download the repository, click the green button in the top right hand corner that says "Code" and then select "Download ZIP". You can then unzip the contents of the downloaded folder somewhere accessible on your local computer (we recommend your Desktop).
+
+We will take a few minutes at the start of the workshop to make sure everyone has R and RStudio installed and the workshop materials downloaded. Please feel free to email dlab-frontdesk@berkeley.edu or visit our help desk at https://dlab.berkeley.edu/frontdesk if you have any questions.
+
+If you are a Git user, simply clone this repository by opening a terminal and typing: “git clone https://github.com/dlab-berkeley/Geospatial-Fundamentals-in-R-with-sf.git”
+
+
+# Is R or RStudio not working on your laptop?
+
+Attend the workshop anyway, we can provide you with a cloud-based solution (DataHub or Binder) until you figure out the problems with your local installation. 
+
+If you have a Berkeley CalNet ID, you can run these lessons on UC Berkeley's DataHub by clicking this [link](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FAverysaurus%2FGeospatial-Fundamentals-in-R-with-sf&urlpath=rstudio%2F&branch=master). By using this link, you can save your work and come back to it at any time. When you want to return to your saved work, just go straight to DataHub (https://datahub.berkeley.edu), sign in, and you click on the Geospatial-Fundamentals-in-R-with-sf folder.
+If you don't have a Berkeley CalNet ID, you can still run these lessons in the cloud, by clicking this [Binder button](https://mybinder.org/v2/gh/Averysaurus/Geospatial-Fundamentals-in-R-with-sf/HEAD?urlpath=rstudio). By using this button, you cannot save your work unfortunately. 
 
 # Run the code! 
 
@@ -84,13 +122,14 @@ Visit the [D-Lab homepage](http://dlab.berkeley.edu/) to learn more about us. Vi
 (include definition of IOKN2K!)
 
 # Other D-Lab R Workshops
-
-
-### Basic competency
-
-
-
-### Intermediate/advanced copmetency
+[R Advanced Data Wrangling: Parts 1-2](https://github.com/dlab-berkeley/advanced-data-wrangling-in-R)		
+[R Data Wrangling and Manipulation](https://github.com/dlab-berkeley/R-wrang)	
+[R Functional Programming](https://github.com/dlab-berkeley/R-functional-programming)		
+[R Fundamentals: Parts 1-4](https://github.com/dlab-berkeley/R-Fundamentals)	
+[R Introduction to Deep Learning: Parts 1-2](https://github.com/dlab-berkeley/Deep-Learning-in-R)		
+[R Introduction to Machine Learning with tidymodels: Parts 1-2](https://github.com/dlab-berkeley/Machine-Learning-with-tidymodels)		
+[R Visualization](https://github.com/dlab-berkeley/R-graphics)		
+[Python Geopandas: Parts 1-3](https://github.com/dlab-berkeley/Geospatial-Fundamentals-in-Python)		
 
 
 # Contributors 
