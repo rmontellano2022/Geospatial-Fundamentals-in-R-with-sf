@@ -122,14 +122,14 @@ Visit the [D-Lab homepage](http://dlab.berkeley.edu/) to learn more about us. Vi
 (include definition of IOKN2K!)
 
 # Other D-Lab R Workshops
-[R Advanced Data Wrangling: Parts 1-2](https://github.com/dlab-berkeley/advanced-data-wrangling-in-R)		
-[R Data Wrangling and Manipulation](https://github.com/dlab-berkeley/R-wrang)	
-[R Functional Programming](https://github.com/dlab-berkeley/R-functional-programming)		
-[R Fundamentals: Parts 1-4](https://github.com/dlab-berkeley/R-Fundamentals)	
-[R Introduction to Deep Learning: Parts 1-2](https://github.com/dlab-berkeley/Deep-Learning-in-R)		
-[R Introduction to Machine Learning with tidymodels: Parts 1-2](https://github.com/dlab-berkeley/Machine-Learning-with-tidymodels)		
-[R Visualization](https://github.com/dlab-berkeley/R-graphics)		
-[Python Geopandas: Parts 1-3](https://github.com/dlab-berkeley/Geospatial-Fundamentals-in-Python)		
+* [R Advanced Data Wrangling: Parts 1-2](https://github.com/dlab-berkeley/advanced-data-wrangling-in-R)		
+* [R Data Wrangling and Manipulation](https://github.com/dlab-berkeley/R-wrang)	
+* [R Functional Programming](https://github.com/dlab-berkeley/R-functional-programming)		
+* [R Fundamentals: Parts 1-4](https://github.com/dlab-berkeley/R-Fundamentals)	
+* [R Introduction to Deep Learning: Parts 1-2](https://github.com/dlab-berkeley/Deep-Learning-in-R)		
+* [R Introduction to Machine Learning with tidymodels: Parts 1-2](https://github.com/dlab-berkeley/Machine-Learning-with-tidymodels)		
+* [R Visualization](https://github.com/dlab-berkeley/R-graphics)		
+* [Python Geopandas: Parts 1-3](https://github.com/dlab-berkeley/Geospatial-Fundamentals-in-Python)		
 
 
 # Contributors 
